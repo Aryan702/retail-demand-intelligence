@@ -55,3 +55,15 @@ The solution helps businesses:
 - Streamlit Dashboard
 - API Deployment
 - Real Retail Dataset Integration
+## Forecast Results
+<img width="1005" height="547" alt="forecast_results" src="https://github.com/user-attachments/assets/ee369370-6551-4da3-a703-ea7d8bae1ad2" />
+
+## Business Impact
+
+This solution helps retailers:
+
+- Forecast future product demand
+- Reduce stock shortages
+- Reduce excess inventory
+- Improve replenishment decisions
+- Identify fast-growing products
