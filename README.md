@@ -67,3 +67,34 @@ This solution helps retailers:
 - Reduce excess inventory
 - Improve replenishment decisions
 - Identify fast-growing products
+
+## Project Architecture
+
+Raw Data (Flights Dataset)
+         ↓
+Retail Dataset Creation
+         ↓
+Feature Engineering
+ (Lag Features, Rolling Average, Growth Rate)
+         ↓
+Machine Learning Models
+(Random Forest & XGBoost)
+         ↓
+Model Evaluation (MAE)
+         ↓
+Automatic Best Model Selection
+         ↓
+Inventory Recommendation Engine
+
+## Project Outcome
+
+✅ Forecasted retail demand using machine learning
+
+✅ Compared Random Forest and XGBoost models
+
+✅ Automatically selected the best-performing model
+
+✅ Generated inventory recommendations based on demand trends
+
+✅ Demonstrated end-to-end analytics workflow from raw data to business decision
+
